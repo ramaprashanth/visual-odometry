@@ -24,5 +24,5 @@ Place the `detectbuoy.avi` in the same folder as the code.
 https://drive.google.com/open?id=12Wfx0IMpCe19iwCPdsoLlI3x8J590kgm
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Visual%20Odometry/result_1.png">
+  <img src="https://github.com/ramaprashanth/visual-odometry/blob/master/result_1.png">
   </p>
