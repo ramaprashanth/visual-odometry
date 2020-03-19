@@ -7,7 +7,7 @@ In this project we are given frames of a driving sequence taken by a camera in a
 The dataset can be downloaded from here : 
 https://drive.google.com/open?id=14Wxvr-pg9soeCyU0z0-CqdqsU5Q_O9kw
 
-Place the `detectbuoy.avi` in the same folder as the code.
+Place the `Oxford_Dataset` in the same folder as the code.
 
 ## How to run code
 1. Unzip the folder which has the code, input sequences and the datasets.
